@@ -68,16 +68,16 @@ Los selectores CSS son las etiquetas a las que afectaran los parámetros que se 
 ###### Afecta a los links "a" dentro de párrafos "p".
 
 ### p > a { color: red; }
-#### Afecta a los links "a" que son "hijos" directos de un párrafo "a".
+##### Afecta a los links "a" que son "hijos" directos de un párrafo "a".
 
 ### h1 + h2 { color: red }
-#### Afecta a los h1 y h2 que sean de un mismo "padre".
+##### Afecta a los h1 y h2 que sean de un mismo "padre".
 
 ### a[class] { color: blue; }
-#### Afecta a todos los links que tengan el atributo de clase, independientemente de cual sea esta.
+##### Afecta a todos los links que tengan el atributo de clase, independientemente de cual sea esta.
 
 ### a[class="externo"] { color: blue; }
-#### Afecta a todos los links que tengan el atributo class y el valor de esta sea "externo".
+##### Afecta a todos los links que tengan el atributo class y el valor de esta sea "externo".
 
 ### a[href="http://www.ejemplo.com"] { color: blue; }
-#### Afecta a todos los links que lleven al sitio indicado "http://www.ejemplo.com".
+##### Afecta a todos los links que lleven al sitio indicado "http://www.ejemplo.com".
