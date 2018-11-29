@@ -57,9 +57,15 @@ las pseudoclases son opciones concretas que se añaden a elementos para que esto
 - Padding: Es el espacio que hay entre el borde de un elemento y el elemento en si mismo, por ejemplo un texto.
 ## Explica que son los selectores de CSS y pon ejemplos
 Los selectores CSS son las etiquetas a las que afectaran los parámetros que se establezcan inmediatamente después entre dos llaves {}.
-- Selector universal * {}
-- Selector de tipo o de etiqueta h1 {}; h2{}
-- Selector descendente
-- Selector de clase
-- Selectores de id
-
+- Selector universal. * {}
+- Selector de tipo o de etiqueta. h1 {};p {}
+- Selector descendente. div p {}
+- Selector de clase. .bocadillos {}
+- Selectores de id. #soloelpan {}
+## Di a quien afectan:
+p a { color: red;
+p > a { color: red; }
+h1 + h2 { color: red }
+a[class] { color: blue; }
+a[class="externo"] { color: blue; }
+a[href="http://www.ejemplo.com"] { color: blue; }
