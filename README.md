@@ -64,8 +64,13 @@ Los selectores CSS son las etiquetas a las que afectaran los parámetros que se 
 - Selectores de id. #soloelpan {}
 ## Di a quien afectan:
 p a { color: red;
+
 p > a { color: red; }
+
 h1 + h2 { color: red }
+
 a[class] { color: blue; }
+
 a[class="externo"] { color: blue; }
+
 a[href="http://www.ejemplo.com"] { color: blue; }
