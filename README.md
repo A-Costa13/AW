@@ -44,8 +44,9 @@ Este se puede incluir directamente dentro del head de esta forma
 	El selenctor id está diseñado para ser añadido a un atributo único y así poder editar el estilo del mismo de forma individual.
 	El selector class está diseñado para funcionar en varios elementos al mismo tiempo que pueden ser o no del mismo tipo.
 ## código para hacer un enlace a otra página y que esta se abra en una nueva ventana
-	
+	```<a href =”https://www.youtube.com/watch?v=mp28JPs25ek&ab_channel=ThePruld” target=”_blank”>Texto</a>.```
 ## ¿Qué son las pseudoclases?, pon ejemplos.
+
 ## Explica el modelo de caja de CSS (margin, border y padding)
 ## Explica que son los selectores de CSS y pon ejemplos
 
