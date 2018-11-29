@@ -48,10 +48,12 @@ Este se puede incluir directamente dentro del head de esta forma
 ## ¿Qué son las pseudoclases?, pon ejemplos.
 las pseudoclases son opciones concretas que se añaden a elementos para que estos funcionen de una forma determinada.
 - Utilizando la pseudo clase :active en CSS cambia el estado del elemento en el que se utilice mientras el cursor está encima de este.
-- Utilizando la pseudo clase :checked en CSS cambia el estado de un elemento para que este sea marcable de diferentes formas
+- Utilizando la pseudo clase :checked en CSS cambia el estado de un elemento para que este sea marcable de diferentes formas.
 ###### Ejemplos de pseudoclases en orden dentro de la carpeta Sandwichería a su vez dentro del repositorio AW.
 
-
 ## Explica el modelo de caja de CSS (margin, border y padding)
+- Margin: El espacio que existe entre un elemento y los que tenga al rededor.
+- Border: Es justo la línea que delita el borde del elemento.
+- Padding: Es el espacio que hay entre el borde de un elemento y el elemento en si mismo, por ejemplo un texto.
 ## Explica que son los selectores de CSS y pon ejemplos
 
