@@ -56,4 +56,14 @@ las pseudoclases son opciones concretas que se añaden a elementos para que esto
 - Border: Es justo la línea que delita el borde del elemento.
 - Padding: Es el espacio que hay entre el borde de un elemento y el elemento en si mismo, por ejemplo un texto.
 ## Explica que son los selectores de CSS y pon ejemplos
+Los selectores CSS son las etiquetas a las que afectaran los parámetros que se establezcan inmediatamente después entre dos llaves {}
+-Selector universal *{}
+-
+-
+-
+-
+-
+-
+-
+-
 
