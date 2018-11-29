@@ -47,8 +47,9 @@ Este se puede incluir directamente dentro del head de esta forma
 	```<a href =”https://www.youtube.com/watch?v=mp28JPs25ek&ab_channel=ThePruld” target=”_blank”>Texto</a>.```
 ## ¿Qué son las pseudoclases?, pon ejemplos.
 las pseudoclases son opciones concretas que se añaden a elementos para que estos funcionen de una forma determinada.
-por ejemplo, utilizando la pseudo clase :active en CSS cambia el estado del elemento en el que se utilice mientras el cursor está encima de este.
-###### Ejemplos de pseudoclases en la carpeta Sandwichería dentro del repositorio AW.
+- Utilizando la pseudo clase :active en CSS cambia el estado del elemento en el que se utilice mientras el cursor está encima de este.
+- Utilizando la pseudo clase :checked en CSS cambia el estado de un elemento para que este sea marcable de diferentes formas
+###### Ejemplos de pseudoclases en orden dentro de la carpeta Sandwichería a su vez dentro del repositorio AW.
 
 
 ## Explica el modelo de caja de CSS (margin, border y padding)
