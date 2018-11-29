@@ -38,8 +38,13 @@ Esta es la forma más sencilla sw utilizar el CSS, no es muy recomendable y cons
 - Sal
 - Cebolla (o no)
 ## Como se puede incluir javascript en HTML
+Este se puede incluir directamente dentro del <head> de esta forma
+	```<script src="./javascript.js"></script>```
 ## ¿Que diferencia hay entre una clase y una ID
+	El selenctor id está diseñado para ser añadido a un atributo único y así poder editar el estilo del mismo de forma individual.
+	El selector class está diseñado para funcionar en varios elementos al mismo tiempo que pueden ser o no del mismo tipo.
 ## código para hacer un enlace a otra página y que esta se abra en una nueva ventana
+	
 ## ¿Qué son las pseudoclases?, pon ejemplos.
 ## Explica el modelo de caja de CSS (margin, border y padding)
 ## Explica que son los selectores de CSS y pon ejemplos
