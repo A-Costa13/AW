@@ -1,14 +1,18 @@
 # AW
 ## Estructura mínima de una web
- <--- <html>
-<head>
-	<title></title>
-</head>
-<body>
-</body>
-</html> --->
-
+```
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	</body>
+</html>
+```
 ## Explica las 3 formas de usar CSS en HTML
+- CSS Externo
+- CSS Interno
+- CSS Embebido
 ## Crea una lista sin ordenar con 5 ingredientes de una receta de cocina
 ## Como se puede incluir javascript en HTML
 ## ¿Que diferencia hay entre una clase y una ID
