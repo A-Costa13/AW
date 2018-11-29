@@ -31,6 +31,12 @@ Esta es la forma más sencilla sw utilizar el CSS, no es muy recomendable y cons
 ```<p>¿Sabes <span style="color:#FF0000">VAREAR OLIVOS</span>?</p>```
 	
 ## Crea una lista sin ordenar con 5 ingredientes de una receta de cocina
+#### Tortilla de patata
+- Huevo
+- Patata
+- Aceite
+- Sal
+- Cebolla (o no)
 ## Como se puede incluir javascript en HTML
 ## ¿Que diferencia hay entre una clase y una ID
 ## código para hacer un enlace a otra página y que esta se abra en una nueva ventana
