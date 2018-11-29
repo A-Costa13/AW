@@ -46,7 +46,38 @@ Este se puede incluir directamente dentro del head de esta forma
 ## código para hacer un enlace a otra página y que esta se abra en una nueva ventana
 	```<a href =”https://www.youtube.com/watch?v=mp28JPs25ek&ab_channel=ThePruld” target=”_blank”>Texto</a>.```
 ## ¿Qué son las pseudoclases?, pon ejemplos.
+las pseudoclases son opciones concretas que se añaden a elementos para que estos funcionen de una forma determinada.
+- Utilizando la pseudo clase :active en CSS cambia el estado del elemento en el que se utilice mientras el cursor está encima de este.
+- Utilizando la pseudo clase :checked en CSS cambia el estado de un elemento para que este sea marcable de diferentes formas.
+###### Ejemplos de pseudoclases en orden dentro de la carpeta Sandwichería a su vez dentro del repositorio AW.
 
 ## Explica el modelo de caja de CSS (margin, border y padding)
+- Margin: El espacio que existe entre un elemento y los que tenga al rededor.
+- Border: Es justo la línea que delita el borde del elemento.
+- Padding: Es el espacio que hay entre el borde de un elemento y el elemento en si mismo, por ejemplo un texto.
 ## Explica que son los selectores de CSS y pon ejemplos
+Los selectores CSS son las etiquetas a las que afectaran los parámetros que se establezcan inmediatamente después entre dos llaves {}.
+- Selector universal. * {}
+- Selector de tipo o de etiqueta. h1 {};p {}
+- Selector descendente. div p {}
+- Selector de clase. .bocadillos {}
+- Selectores de id. #soloelpan {}
+- Selectores de atributos. p[class] {}
+## Di a quien afectan:
+### p a { color: red;
+###### Afecta a los links "a" dentro de párrafos "p".
 
+### p > a { color: red; }
+##### Afecta a los links "a" que son "hijos" directos de un párrafo "a".
+
+### h1 + h2 { color: red }
+##### Afecta a los h1 y h2 que sean de un mismo "padre".
+
+### a[class] { color: blue; }
+##### Afecta a todos los links que tengan el atributo de clase, independientemente de cual sea esta.
+
+### a[class="externo"] { color: blue; }
+##### Afecta a todos los links que tengan el atributo class y el valor de esta sea "externo".
+
+### a[href="http://www.ejemplo.com"] { color: blue; }
+##### Afecta a todos los links que lleven al sitio indicado "http://www.ejemplo.com".
