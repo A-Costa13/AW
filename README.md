@@ -1,7 +1,7 @@
 # AW
 ## Estructura mínima de una web
-###### ```
-<html>
+```
+###### <html>
 	<head>
 		<title></title>
 	</head>
