@@ -65,7 +65,7 @@ Los selectores CSS son las etiquetas a las que afectaran los parámetros que se 
 - Selectores de atributos. p[class] {}
 ## Di a quien afectan:
 ### p a { color: red;
-##### Afecta a los links "a" dentro de párrafos "p".
+###### Afecta a los links "a" dentro de párrafos "p".
 
 ### p > a { color: red; }
 #### Afecta a los links "a" que son "hijos" directos de un párrafo "a".
