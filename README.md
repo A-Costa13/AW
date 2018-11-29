@@ -37,4 +37,8 @@ Esta es la forma más sencilla sw utilizar el CSS, no es muy recomendable y cons
 ## ¿Qué son las pseudoclases?, pon ejemplos.
 ## Explica el modelo de caja de CSS (margin, border y padding)
 ## Explica que son los selectores de CSS y pon ejemplos
+# Hola
+## Hola
+### Hola
+#### Hola
 
