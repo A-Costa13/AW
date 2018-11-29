@@ -1,5 +1,5 @@
 # AW
-## Estructura mínima de una web
+## * Estructura mínima de una web
 ```
 <html>
 	<head>
