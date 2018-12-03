@@ -1,6 +1,6 @@
 # AW
 ## Estructura mínima de una web
-```html
+```html5
 <!DOCTYPE html>
 <html>
 <head>
